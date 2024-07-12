@@ -1,2 +1,1 @@
-# projeto-1
-sit para covernio medico
+#projeto 1 primeiro sit. 
